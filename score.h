@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #define MAX 30
-
+//coment
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
